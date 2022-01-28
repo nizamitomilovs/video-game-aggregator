@@ -1,3 +1,3 @@
-## Game Aggregator via IGDB API with Laracasts
+## Game Aggregator via IGDB API
 
 ![](GameAggregator.gif)
